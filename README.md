@@ -1,7 +1,7 @@
-# dj-appoints-client
+dj-appoints-client
+===============
 
 Scheduling app for the fonye appointments API
-===============
 
 Appoints is an appointment scheduling sample application that hopefully provides a bit of guidance into the wild west that is called 'Modern Day Web Development'. 
 It consists of a [Node.js REST API backend](https://github.com/fonyedjs/appt-schedule-api) and an AngularJS frontend app (this project). A live demo can be found at http://fonyedjs.github.io eventually....
