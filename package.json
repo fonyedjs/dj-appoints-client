@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "scripts": {
     "start": "gulp watch",
+    "serve": "gulp serve",
     "test": "gulp test"
   },
   "dependencies": {},
